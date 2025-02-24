@@ -1,0 +1,13 @@
+dotnet new console
+git clone 
+git status 
+git add . 
+git 
+
+git config --global user.name "luanmenezesx"
+
+git config --global user.email "luangui2006@gmail.com"
+
+git commit  -m "Finaliza Programa"
+
+git push
