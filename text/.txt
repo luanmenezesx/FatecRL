@@ -1,13 +1,13 @@
 dotnet new console
 git clone 
 git status 
-git add . 
+git add .  (toda vez que for adicionar algo, eu rodo este comando)
 git 
 
 git config --global user.name "luanmenezesx"
 
 git config --global user.email "luangui2006@gmail.com"
 
-git commit  -m "Finaliza Programa"
+git commit  -m "Finaliza Programa" (Atualizar alguma parte do programa)
 
-git push
+git push (Uso comando para enviar ao GitHub)
